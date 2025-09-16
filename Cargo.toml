@@ -1,0 +1,13 @@
+[package]
+name = "multi_pin_roll_rs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+embedded-hal = "1.0.0"
+arduino-hal = {git = "https://github.com/Rahix/avr-hal", features = ["arduino-mega2560"]}
+ina219 = "0.2.0"
+esp-idf-svc = "0.51.0"
+esp-idf-sys = "0.36.1"
+esp-idf-hal = "0.45.2"
+ufmt = "0.2.0"
