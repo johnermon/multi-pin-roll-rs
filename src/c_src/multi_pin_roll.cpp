@@ -7,8 +7,8 @@
 #include "indexhtml.h"
 
 // WiFi Credentials
-const char* ssid = "Moriya Shrine Wireless";
-const char* password = "8^P22/g...";
+const char* ssid = "";
+const char* password = "";
 
 #define SWITCH_PIN 0
 
