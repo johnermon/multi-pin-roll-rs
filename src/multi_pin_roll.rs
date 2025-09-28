@@ -9,8 +9,8 @@ use esp_idf_svc::{http::server::EspHttpServer, wifi::EspWifi};
 
 
 //consts representinf the password and ssid of the connection 
-const SSID:&str = "Moriya Shrine Wireless";
-const PASSWORD:&str = "8^P22/g...";
+const SSID:&str = "";
+const PASSWORD:&str = "";
 
 
 //consts for defining the pins on arduino that have different roles
